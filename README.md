@@ -26,7 +26,7 @@ PROGRAM:
 /*
 Program to print the text “Hello World”.
 Developed by:Srimathi V
-Registeration Number :
+Registeration Number :212221040162
 */
 ```
 Activity_main.xml:-
@@ -98,8 +98,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 OUTPUT
-![1](https://github.com/Srimathi0123/Mobile-Application-Development/assets/118673240/50751c8a-05e6-4cea-ba02-00ec6efcfd07)
-
+![1](1.png)
 
 RESULT
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
